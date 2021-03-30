@@ -14,7 +14,7 @@ The simulation continues until a coral reaches the top edge.
 
 You can render still images or animations.
 
-**[Watch an example growth animation](examples/growth.mp4)**
+**[Watch an example growth animation](examples/growth.mp4?raw=true)** (60 MB)
 
 ![An example coral with different parameters](examples/seaweed.png)
 
