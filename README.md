@@ -104,7 +104,7 @@ With `right_bias = 1`, the opposite holds.
 To monitor the simulation, you can display the step count and the generated image periodically.
 
 ````python
-board.run(print_step = 1000, image_step = 10000, fname = 'save_prefix-')
+board.run(print_step = 1000, image_step = 10000, save_prefix = 'snapshot-')
 ````
 
 | Argument      | Type    | Default | Effect                                                              |
