@@ -1,0 +1,6 @@
+# System
+.DS_Store
+__pycache__
+
+# Too big, commit video only
+examples/frames/
